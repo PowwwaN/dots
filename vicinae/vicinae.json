@@ -1,0 +1,24 @@
+{
+    "closeOnFocusLoss": false,
+    "faviconService": "twenty",
+    "font": {
+        "normal": "Fira Code",
+        "size": 10.5
+    },
+    "keybinding": "default",
+    "keybinds": {
+    },
+    "popToRootOnClose": true,
+    "rootSearch": {
+        "searchFiles": false
+    },
+    "theme": {
+        "iconTheme": "Adwaita",
+        "name": "Oxocarbon"
+    },
+    "window": {
+        "csd": true,
+        "opacity": 1,
+        "rounding": 10
+    }
+}

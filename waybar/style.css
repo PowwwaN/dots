@@ -1,0 +1,12 @@
+@import "color.css";
+
+* {
+    font-family: "Fira Code";
+    font-weight: bold;
+    background: transparent;
+}
+
+label.module {
+    color: @primary;
+    padding: 0 0.25em;
+}
