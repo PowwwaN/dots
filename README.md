@@ -8,4 +8,4 @@ My current dev environment configurations
 [Waybar](https://github.com/Alexays/Waybar) \
 [Fastfetch](https://github.com/fastfetch-cli/fastfetch) \
 [Dunst](https://github.com/dunst-project/dunst) \
-[SwayOSD](https://github.com/ErikReider/SwayOSD) \
+[SwayOSD](https://github.com/ErikReider/SwayOSD)
